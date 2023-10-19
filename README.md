@@ -30,12 +30,3 @@
 
 
 ## ![](https://komarev.com/ghpvc/?username=alexcao194&color=238dd9&style=flat&label=VIEWS)
-## My trophy:  
-<a href="https://www.holopin.io/hacktoberfest2023/hall/@alexcao194">
-  Hacktoberfest hall of Fame 2023
-</a>  
-----
-<a href="https://tree-nation.com/certificate/652931a8505ac">
-  Tree Certificate
-</a>
-  
