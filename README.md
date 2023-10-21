@@ -1,5 +1,5 @@
 <p align="center"> 
-  ![header](header.png)
+  <img src="header.png" alt="header" width="100%"/>
 </p>
 <!-- <img src="" height=""> -->
 <h1 align="center"> 
