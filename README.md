@@ -1,7 +1,6 @@
-<!-- <p align="center"> 
-  <img src="">
-</p> -->
-![header](header.png)
+<p align="center"> 
+  ![header](header.png)
+</p>
 <!-- <img src="" height=""> -->
 <h1 align="center"> 
   🖐Hi, I'm Alex Cao, welcome to my git! <height="60"> 
